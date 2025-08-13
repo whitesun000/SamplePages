@@ -1,2 +1,3 @@
 こんにちは
-![景色の画像](./景色 (1).JPG)
+
+このホームページのソースコードは[こちら](https://github.com//whitesun000/SamplePages/)
